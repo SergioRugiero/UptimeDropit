@@ -8,7 +8,7 @@ sites:
     url: https://www.pickit.com.ar
   - name: Pickit Colombia
     url: https://www.pickit.com.co
-  - name: Pickit México
+  - name: Pickit Mexico
     url: https://www.pickit.com.mx
   - name: Pickit Uruguay 
     url: https://www.pickit.com.uy
