@@ -1,10 +1,50 @@
 [
   {
-    "name": "Pickit",
+    "name": "Pickit Argentina",
     "url": "https://www.pickit.com.ar",
-    "slug": "pickit",
+    "slug": "pickit-argentina",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2278
+    "time": 3381
+  },
+  {
+    "name": "Pickit Colombia",
+    "url": "https://www.pickit.com.co",
+    "slug": "pickit-colombia",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 871
+  },
+  {
+    "name": "Pickit México",
+    "url": "https://www.pickit.com.mx",
+    "slug": "pickit-mexico",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 4624
+  },
+  {
+    "name": "Pickit Uruguay",
+    "url": "https://www.pickit.com.uy",
+    "slug": "pickit-uruguay",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 2811
+  },
+  {
+    "name": "Pickit Chile",
+    "url": "https://www.pickit.cl",
+    "slug": "pickit-chile",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 2203
+  },
+  {
+    "name": "Pickit Jira",
+    "url": "http://support.pickit.net",
+    "slug": "pickit-jira",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1086
   }
 ]
