@@ -1,10 +1,10 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.drop-it.com.ar",
-    "slug": "google",
-    "status": "down",
+    "name": "Pickit",
+    "url": "https://www.pickit.com.ar",
+    "slug": "pickit",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 459
+    "time": 2278
   }
 ]
