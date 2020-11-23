@@ -5,7 +5,7 @@
     "slug": "pickit-argentina",
     "status": "up",
     "uptime": "100.00%",
-    "time": 3381
+    "time": 2693
   },
   {
     "name": "Pickit Colombia",
@@ -13,7 +13,7 @@
     "slug": "pickit-colombia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 871
+    "time": 855
   },
   {
     "name": "Pickit México",
@@ -21,7 +21,7 @@
     "slug": "pickit-mexico",
     "status": "up",
     "uptime": "100.00%",
-    "time": 4624
+    "time": 2736
   },
   {
     "name": "Pickit Uruguay",
@@ -29,15 +29,7 @@
     "slug": "pickit-uruguay",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2811
-  },
-  {
-    "name": "Pickit Chile",
-    "url": "https://www.pickit.cl",
-    "slug": "pickit-chile",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 2203
+    "time": 1835
   },
   {
     "name": "Pickit Jira",
@@ -45,6 +37,6 @@
     "slug": "pickit-jira",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1086
+    "time": 704
   }
 ]
