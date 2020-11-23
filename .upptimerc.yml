@@ -12,8 +12,6 @@ sites:
     url: https://www.pickit.com.mx
   - name: Pickit Uruguay 
     url: https://www.pickit.com.uy
-  - name: Pickit Chile
-    url: https://www.pickit.cl
   - name: Pickit Jira
     url: http://support.pickit.net
     
