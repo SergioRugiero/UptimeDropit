@@ -15,7 +15,7 @@ sites:
   - name: Pickit Jira
     url: http://support.pickit.net
   - name: Pickit Odoo
-    url: https://odoo.pickit.net
+    url: https://odoo.pickit.net/web/login
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
