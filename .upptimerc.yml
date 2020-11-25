@@ -16,7 +16,12 @@ sites:
     url: http://support.pickit.net
   - name: Pickit Odoo
     url: https://odoo.pickit.net/web/login
-    
+  - name: Secret Site
+    url: $SECRET_SITE
+    expectedStatusCodes:
+     - 200
+     - 401
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
