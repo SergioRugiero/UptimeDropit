@@ -35,9 +35,9 @@
     "name": "Pickit Jira",
     "url": "http://support.pickit.net",
     "slug": "pickit-jira",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 1136
+    "status": "down",
+    "uptime": "99.99%",
+    "time": 1010
   },
   {
     "name": "Pickit Odoo",
