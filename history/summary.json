@@ -5,7 +5,7 @@
     "slug": "pickit-argentina",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1873
+    "time": 1881
   },
   {
     "name": "Pickit Colombia",
@@ -13,7 +13,7 @@
     "slug": "pickit-colombia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1612
+    "time": 1864
   },
   {
     "name": "Pickit Mexico",
@@ -21,7 +21,7 @@
     "slug": "pickit-mexico",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1698
+    "time": 1761
   },
   {
     "name": "Pickit Uruguay",
@@ -29,7 +29,7 @@
     "slug": "pickit-uruguay",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1574
+    "time": 1615
   },
   {
     "name": "Pickit Jira",
@@ -37,14 +37,14 @@
     "slug": "pickit-jira",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1216
+    "time": 1136
   },
   {
     "name": "Pickit Odoo",
     "url": "https://odoo.pickit.net/web/login",
     "slug": "pickit-odoo",
     "status": "up",
-    "uptime": "84.84%",
-    "time": 328
+    "uptime": "100.00%",
+    "time": 1114
   }
 ]
