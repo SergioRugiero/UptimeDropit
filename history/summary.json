@@ -36,7 +36,7 @@
     "url": "http://support.pickit.net",
     "slug": "pickit-jira",
     "status": "up",
-    "uptime": "98.99%",
+    "uptime": "99.32%",
     "time": 888
   },
   {
@@ -51,8 +51,8 @@
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 440
+    "status": "down",
+    "uptime": "99.99%",
+    "time": 352
   }
 ]
