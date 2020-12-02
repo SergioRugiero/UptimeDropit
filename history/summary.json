@@ -5,7 +5,15 @@
     "slug": "pickit-argentina",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2800
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2987,
+    "timeDay": 3681,
+    "timeWeek": 3861,
+    "timeMonth": 2987,
+    "timeYear": 2987
   },
   {
     "name": "Pickit Colombia",
@@ -13,7 +21,15 @@
     "slug": "pickit-colombia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1743
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1859,
+    "timeDay": 828,
+    "timeWeek": 1640,
+    "timeMonth": 1859,
+    "timeYear": 1859
   },
   {
     "name": "Pickit Mexico",
@@ -21,7 +37,15 @@
     "slug": "pickit-mexico",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1653
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1763,
+    "timeDay": 802,
+    "timeWeek": 1505,
+    "timeMonth": 1763,
+    "timeYear": 1763
   },
   {
     "name": "Pickit Uruguay",
@@ -29,15 +53,31 @@
     "slug": "pickit-uruguay",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1698
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1812,
+    "timeDay": 819,
+    "timeWeek": 1901,
+    "timeMonth": 1812,
+    "timeYear": 1812
   },
   {
     "name": "Pickit Jira",
     "url": "http://support.pickit.net",
     "slug": "pickit-jira",
-    "status": "up",
-    "uptime": "99.75%",
-    "time": 1251
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 1408,
+    "timeDay": 315,
+    "timeWeek": 1839,
+    "timeMonth": 1408,
+    "timeYear": 1408
   },
   {
     "name": "Pickit Odoo",
@@ -45,7 +85,15 @@
     "slug": "pickit-odoo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1756
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1932,
+    "timeDay": 1908,
+    "timeWeek": 2051,
+    "timeMonth": 1932,
+    "timeYear": 1932
   },
   {
     "name": "Secret Site",
@@ -53,6 +101,14 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "100.00%",
-    "time": 775
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1034,
+    "timeDay": 876,
+    "timeWeek": 1053,
+    "timeMonth": 1034,
+    "timeYear": 1034
   }
 ]
