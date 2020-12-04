@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2909,
-    "timeDay": 1736,
-    "timeWeek": 3267,
-    "timeMonth": 2909,
-    "timeYear": 2909
+    "time": 3064,
+    "timeDay": 5533,
+    "timeWeek": 3846,
+    "timeMonth": 3064,
+    "timeYear": 3064
   },
   {
     "name": "Pickit Colombia",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1785,
-    "timeDay": 672,
-    "timeWeek": 1093,
-    "timeMonth": 1785,
-    "timeYear": 1785
+    "time": 1928,
+    "timeDay": 4214,
+    "timeWeek": 1580,
+    "timeMonth": 1928,
+    "timeYear": 1928
   },
   {
     "name": "Pickit Mexico",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1749,
-    "timeDay": 1540,
-    "timeWeek": 1578,
-    "timeMonth": 1749,
-    "timeYear": 1749
+    "time": 1936,
+    "timeDay": 4913,
+    "timeWeek": 2031,
+    "timeMonth": 1936,
+    "timeYear": 1936
   },
   {
     "name": "Pickit Uruguay",
@@ -57,27 +57,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1754,
-    "timeDay": 884,
-    "timeWeek": 1698,
-    "timeMonth": 1754,
-    "timeYear": 1754
+    "time": 1992,
+    "timeDay": 5804,
+    "timeWeek": 2390,
+    "timeMonth": 1992,
+    "timeYear": 1992
   },
   {
     "name": "Pickit Jira",
     "url": "http://support.pickit.net",
     "slug": "pickit-jira",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 1296,
-    "timeDay": 396,
-    "timeWeek": 1582,
-    "timeMonth": 1296,
-    "timeYear": 1296
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 1462,
+    "timeDay": 4451,
+    "timeWeek": 2080,
+    "timeMonth": 1462,
+    "timeYear": 1462
   },
   {
     "name": "Pickit Odoo",
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1923,
-    "timeDay": 1835,
-    "timeWeek": 2204,
-    "timeMonth": 1923,
-    "timeYear": 1923
+    "time": 1906,
+    "timeDay": 1723,
+    "timeWeek": 2328,
+    "timeMonth": 1906,
+    "timeYear": 1906
   },
   {
     "name": "Secret Site",
@@ -105,10 +105,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1019,
-    "timeDay": 889,
-    "timeWeek": 1054,
-    "timeMonth": 1019,
-    "timeYear": 1019
+    "time": 1006,
+    "timeDay": 873,
+    "timeWeek": 847,
+    "timeMonth": 1006,
+    "timeYear": 1006
   }
 ]
