@@ -1,7 +1,7 @@
 url: https://odoo.pickit.net/web/login  
-status: up
-code: 200
-responseTime: 1793
-lastUpdated: 2020-12-29T23:25:38.538Z
+status: down
+code: 502
+responseTime: 2007
+lastUpdated: 2020-12-30T20:33:10.861Z
 startTime: Tue Nov 24 2020 01:01:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
