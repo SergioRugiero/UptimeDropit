@@ -6,16 +6,101 @@ repo: UptimeDropit # Your Github repository name
 sites:
   - name: Pickit Argentina  
     url: https://www.pickit.com.ar
+
+  - name: Pickit Argentina Admin
+    url: https://admin.pickit.net/
+    expectedStatusCodes:
+      - 200
+      - 201
+
+  - name: Pickit Argentina Comercio
+    url: https://comercio.pickit.net/
+    expectedStatusCodes:
+      - 200
+      - 201
+
+  - name: Pickit Argentina Punto
+    url: https://punto.pickit.net/
+    expectedStatusCodes:
+      - 200
+      - 201
+
   - name: Pickit Colombia
     url: https://www.pickit.com.co
+
+  - name: Pickit Colombia Admin
+    url: https://admin.pickit.com.co/
+    expectedStatusCodes:
+      - 200
+      - 201
+
+  - name: Pickit Colombia Comercio
+    url: https://comercio.pickit.com.co/
+    expectedStatusCodes:
+      - 200
+      - 201
+
+  - name: Pickit Colombia Punto
+    url: https://punto.pickit.com.co/
+    expectedStatusCodes:
+      - 200
+      - 201
+
   - name: Pickit Mexico
     url: https://www.pickit.com.mx
+
+  - name: Pickit Mexico Admin
+    url: https://admin.pickit.com.mx/
+    expectedStatusCodes:
+      - 200
+      - 201
+
+  - name: Pickit Mexico Comercio
+    url: https://comercio.pickit.com.mx/
+    expectedStatusCodes:
+      - 200
+      - 201
+
+  - name: Pickit Mexico Punto
+    url: https://punto.pickit.com.mx/
+    expectedStatusCodes:
+      - 200
+      - 201
+
   - name: Pickit Uruguay 
     url: https://www.pickit.com.uy
+
+
+  - name: Pickit Uruguay Admin
+    url: https://admin.pickit.com.uy/
+    expectedStatusCodes:
+      - 200
+      - 201
+
+  - name: Pickit Uruguay Comercio
+    url: https://comercio.pickit.com.uy/
+    expectedStatusCodes:
+      - 200
+      - 201
+
+  - name: Pickit Uruguay Punto
+    url: https://punto.pickit.com.uy/
+    expectedStatusCodes:
+      - 200
+      - 201
+
   - name: Pickit Jira
     url: http://support.pickit.net
+
   - name: Pickit Odoo
     url: https://odoo.pickit.net/web/login
+
+  - name: Pickit México Admin
+    url: https://admin.pickit.com.mx/
+    expectedStatusCodes:
+      - 200
+      - 201
+
   - name: Secret Site
     url: $SECRET_SITE
     expectedStatusCodes:
