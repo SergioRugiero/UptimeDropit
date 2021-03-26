@@ -63,10 +63,10 @@
     "url": "https://punto.pickit.net/",
     "icon": "https://favicons.githubusercontent.com/punto.pickit.net",
     "slug": "pickit-argentina-punto",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2282,
@@ -74,7 +74,9 @@
     "timeWeek": 2412,
     "timeMonth": 2282,
     "timeYear": 2282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-26": 1
+    }
   },
   {
     "name": "Pickit Colombia",
@@ -379,11 +381,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "up",
-    "uptime": "85.37%",
+    "uptime": "85.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "85.37%",
+    "uptimeYear": "85.52%",
     "time": 893,
     "timeDay": 1039,
     "timeWeek": 934,
